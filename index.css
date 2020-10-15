@@ -15,7 +15,7 @@ body {
     width: 100vw;
     height: 100vh;
     position: fixed;
-    background:rgb(255, 50, 50);
+    background:rgb(84, 9, 12);
     z-index: 999;
     display: flex;
     justify-content: center;
@@ -172,7 +172,7 @@ body {
     width:90vw;
     height:90vh;
     padding:5vh 5vw;
-    background:rgb(255, 50, 50);
+    background:rgb(84, 9, 12);
     color:#fff;
     z-index:9;
     position:fixed;
